@@ -1,6 +1,10 @@
 public class adder{
-  public static void add(int a, int b){
+  /**
+   * @param a
+   * @param b
+   */
+  public static int add(int a, int b){
     //This is a adder
-    return a+b
+    return a+b;
   }
 }
