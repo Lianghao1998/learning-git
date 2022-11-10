@@ -7,4 +7,9 @@ public class adder{
     //This is a adder
     return a+b;
   }
+
+  public static void main(String[] args){
+    int a = add(3,2);
+    System.out.println(a);
+  }
 }
